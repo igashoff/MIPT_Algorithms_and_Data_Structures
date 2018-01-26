@@ -1,0 +1,5 @@
+Ivanov 5
+Petrov 3
+Igashov 2
+Sidorov 4
+Akimov 5
